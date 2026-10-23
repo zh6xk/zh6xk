@@ -7,7 +7,7 @@
   <rect width="864" height="92" fill="url(#dz)"/>
   <path d="M 14 6 H 850 V 14 H 858 V 78 H 850 V 86 H 14 V 78 H 6 V 14 H 14 Z" fill="none" stroke="#3c3c3c" stroke-width="4"/>
   <text x="28" y="42" font-family="SK, monospace" font-size="12" fill="#c4c4c4">BUILDING PRODUCTION-GRADE WEB APPS, NATIVE TOOLS &amp; CINEMATICS.</text>
-  <text x="28" y="66" font-family="SK, monospace" font-size="10" fill="#6a6a6a">JSIBRA.ME &bull; FULLSTACK WEB, WIN32 SYSTEMS &amp; CREATIVE MOTION.</text>
+  <text x="28" y="66" font-family="SK, monospace" font-size="10" fill="#6a6a6a">JSIBRA.ME &#8226; FULLSTACK WEB, WIN32 SYSTEMS &amp; CREATIVE MOTION.</text>
   <text x="836" y="42" font-family="SK, monospace" font-size="13" fill="#ffffff" text-anchor="end">IBRAFARAWOWAN@GMAIL.COM</text>
   <rect x="580" y="32" width="8" height="10" fill="#ffffff">
     <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/>
