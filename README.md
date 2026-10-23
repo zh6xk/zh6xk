@@ -3,4 +3,4 @@
   <img src="assets/inventory.svg" width="65%" alt="Inventory" />
 </p>
 
-<img src="assets/strip.svg" width="100%" alt="Contact" />
+<img src="assets/contact.svg" width="100%" alt="Contact" />
